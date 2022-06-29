@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tylermui
-- 👀 I’m interested in software engineering, computer science, and tech
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am interested in software engineering, computer science, and tech
+- 🎓 I am currently studying Computer Science and Mathematics at Arcadia University
+- 🌊 Fun Fact: I love swimming and being outdoors
 - 📫 You can reach me at tylermui1103@gmail.com 
 
 <!---
