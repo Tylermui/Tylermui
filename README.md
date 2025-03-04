@@ -1,10 +1,12 @@
 # Hey, I’m Tyler 👋
 ## About Me 🚀
-- 👀 I am interested in software engineering, computer science, and tech
-- 🎓 I am currently pursuing a B.S. in Computer Science and a B.S. in Data Science at Arcadia University
-- 🌊 Fun Fact: I love swimming and being outdoors
+Motivated Computer Science and Data Science student with strong analytical,
+programming, and machine learning skills. Seeking an entry-level position in data analytics or
+software engineering to leverage coding skills in Python, Java, Javascript, Kotlin, HTML,
+CSS, R, SQL, Bash, and AI-driven insights to build scalable solutions.
+
+Besides programming, I love swimming, being active, and going outdoors. I hope to one day do an Ironman Triathlon!
 - 📫 You can reach me at tylermui1103@gmail.com
-- 👨🏻‍💻 visit my personal website at https://tyler-mui.pages.dev/
 
 <!---
 Tylermui/Tylermui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
