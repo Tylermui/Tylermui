@@ -1,5 +1,5 @@
-*Hey, I’m Tyler 👋*
-**About Me 🚀**
+# Hey, I’m Tyler 👋
+## About Me 🚀
 - 👀 I am interested in software engineering, computer science, and tech
 - 🎓 I am currently pursuing a B.S. in Computer Science and a B.S. in Data Science at Arcadia University
 - 🌊 Fun Fact: I love swimming and being outdoors
