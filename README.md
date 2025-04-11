@@ -7,7 +7,7 @@ CSS, R, SQL, Bash, and AI-driven insights to build scalable solutions.
 
 Besides programming, I love swimming, being active, and going outdoors. I hope to one day do an Ironman Triathlon!
 
-📫 You can reach me at tylermui1103@gmail.com
+📫 You can reach me at tmui1103@gmail.com
 
 <!---
 Tylermui/Tylermui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
